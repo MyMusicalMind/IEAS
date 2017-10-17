@@ -1,5 +1,5 @@
 # IEAS
-In estasi all'interno di Scabbia
+<b>|I|</b>n <b>|E|</b>stasi <b>|A|</b>ll'interno di <b>|S|</b>cabbia
 
 Este álbum esta em andamento. O estilo é Hero - popularmente conhecido por utilizar a guitarra solista como centro das músicas instrumentais.<BR>
 <br>
