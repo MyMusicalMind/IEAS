@@ -5,7 +5,7 @@ Este álbum esta em andamento. O estilo é Hero - popularmente conhecido por uti
 <br>
 
 
-A imagem é da cantora italiana Cristina Scabbia
+A imagem é da cantora italiana Cristina Scabbia<br>
 <img src="https://s1.postimg.org/7bskazj28f/IEAS.jpg" width="350" heigth="350"/>
 <br>
 <br>
